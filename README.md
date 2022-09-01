@@ -13,7 +13,7 @@ ____
 **Команда:**
 [urycherd](https://github.com/urycherd) [hardworkerM](https://github.com/hardworkerM) [antr19](https://github.com/antr19) [mikabuto](https://github.com/mikabuto)
 
-[:arrow_up:Оглавление](#оглавление)
+[Оглавление](#оглавление)
 ____
 ## Архитектура проекта
 - /data - хранение генерируемых файлов отчётности и qr-кодов
@@ -25,10 +25,10 @@ ____
 - [/utils](https://github.com/hardworkerM/Checkin_Bot/tree/main/utils) - вспомогательные, форматирующие функции
 - app.py и create_bot.py - подключение и активизация бота.
 
-[:arrow_up:Оглавление](#оглавление)
+[Оглавление](#оглавление)
 ____
 ## Результаты
 Функционал бота [ютуб](https://youtu.be/U5yTr65kLro)
 
-[:arrow_up:Оглавление](#оглавление)
+[Оглавление](#оглавление)
 ____
