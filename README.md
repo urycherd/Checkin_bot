@@ -30,7 +30,7 @@ ____
 ## Результаты
 ![img3](https://user-images.githubusercontent.com/89844627/187900400-84945cae-5721-428b-b0a4-f981b07984ed.jpeg)
 ![img2](https://user-images.githubusercontent.com/89844627/187900332-25ccde75-e1c4-4a05-97b1-4af0295b33a1.jpeg)<br />
-Функционал бота [ютуб](https://youtu.be/U5yTr65kLro)
+Функционал бота на [ютубе](https://youtu.be/U5yTr65kLro)
 
 [Оглавление](#оглавление)
 ____
