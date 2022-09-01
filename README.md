@@ -28,11 +28,9 @@ ____
 [Оглавление](#оглавление)
 ____
 ## Результаты
-![img1](https://user-images.githubusercontent.com/89844627/187899552-350bb603-bb41-40cc-9b43
-![img2](https://user-images.githubusercontent.com/89844627/187899611-a37718b5-fb9a-482a-a81d-611d0c7cd8d7.jpeg)
--4ae3eea46fe6.jpeg)
-![img3](https://user-images.githubusercontent.com/89844627/187899678-dcb2784d-17ef-4ac8-b538-58d1e3372ff6.jpeg)
-Функционал бота [ютуб](https://youtu.be/U5yTr65kLro)<\br>
+![img3](https://user-images.githubusercontent.com/89844627/187900400-84945cae-5721-428b-b0a4-f981b07984ed.jpeg)
+![img2](https://user-images.githubusercontent.com/89844627/187900332-25ccde75-e1c4-4a05-97b1-4af0295b33a1.jpeg)<br />
+Функционал бота [ютуб](https://youtu.be/U5yTr65kLro)
 
 [Оглавление](#оглавление)
 ____
