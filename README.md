@@ -28,11 +28,11 @@ ____
 [Оглавление](#оглавление)
 ____
 ## Результаты
-[img1](https://user-images.githubusercontent.com/89844627/187899552-350bb603-bb41-40cc-9b43
+![img1](https://user-images.githubusercontent.com/89844627/187899552-350bb603-bb41-40cc-9b43
 ![img2](https://user-images.githubusercontent.com/89844627/187899611-a37718b5-fb9a-482a-a81d-611d0c7cd8d7.jpeg)
 -4ae3eea46fe6.jpeg)
 ![img3](https://user-images.githubusercontent.com/89844627/187899678-dcb2784d-17ef-4ac8-b538-58d1e3372ff6.jpeg)
-Функционал бота [ютуб](https://youtu.be/U5yTr65kLro)
+Функционал бота [ютуб](https://youtu.be/U5yTr65kLro)<\br>
 
 [Оглавление](#оглавление)
 ____
